@@ -41,7 +41,6 @@ export const WISH_MESSAGES = [
   "Wishing you a rizzful year ahead.. ",
   "Roses are red, skies are blue.. I just wanna say Happy Birthday to you <3...",
   "Happy Birthday, MATTU! You deserve all the love in the cosmos.. 🚀",
-"
   "Hope your birthday lights up with dreams and stars...",
 ];
 // Deprecated: do not export a component from data file. Keep data exports only.
