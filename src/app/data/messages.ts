@@ -1,7 +1,7 @@
 
 /* ---- BDAY INTRO MESSAGES ---- */
 export const INTRO_MESSAGES = {
-  title: 'Is it your birthday today??',
+  title: 'Is it your birthday today??, MANAHIL',
   subtitle: 'Something magical is about to happen... ✨',
   description1: 'But first we need to fix your heart 💕',
   description2: 'Because it deals with so much and needs love ',
@@ -23,6 +23,15 @@ export const SUCCESS_MESSAGES = {
 
 /* ---- WISH MESSAGES ---- */
 export const WISH_MESSAGES = [
+    "Wait... what are you doing here? 🧐 ",
+  "Oops, looks like you took the wrong way.. 🛑 ",
+  "ERROR 404 🚫..",
+  "Just kidding! ",
+  "Here is your real surprise... ✨ ",
+  "Happy Birthday to the most amazing person! 🎉 ",
+  "To the world you may be one person, but to me you are the whole world.. 🌍 ",
+  "Sending you 365 days of main character energy.. ⚡ ",
+  "May your day be as bright and beautiful as your smile.. 🥰 ",
   "One year older, ten times hotter.. ",
   "May all your delulu come trululu.. ",
   "Have a purrfect ♪(^∇^*) birthday.. ",
@@ -31,6 +40,8 @@ export const WISH_MESSAGES = [
   "You are flippin' awesome.. ",
   "Wishing you a rizzful year ahead.. ",
   "Roses are red, skies are blue.. I just wanna say Happy Birthday to you <3...",
+  "Happy Birthday, MATTU! You deserve all the love in the cosmos.. 🚀",
+"
   "Hope your birthday lights up with dreams and stars...",
 ];
 // Deprecated: do not export a component from data file. Keep data exports only.
